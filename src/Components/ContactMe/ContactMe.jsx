@@ -1,6 +1,8 @@
 import React from "react";
 import "./ContactMe.css";
 import ContactInfoCard from "./ContactInfoCard/ContactInfoCard";
+import ContactForm from "./ContactForm/ContactForm";
+
 
 const ContactMe = () => {
   return (
@@ -19,7 +21,7 @@ const ContactMe = () => {
           </div>
 
           <div style={{ flex: 1 }}>     
-                
+            <ContactForm />
         </div>
       </div>
     </section>
