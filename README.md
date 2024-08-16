@@ -31,4 +31,5 @@ Contact Information
 Feel free to reach out to me via email or connect with me on LinkedIn:
 
 Email: jackiecheung@pursuit.org
+
 LinkedIn: https://www.linkedin.com/in/jackiecheung93/

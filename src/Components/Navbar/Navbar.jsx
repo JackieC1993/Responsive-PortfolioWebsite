@@ -37,8 +37,7 @@ const toggleMenu = () =>{
             </button>
           </ul>
           <button class="menu-btn" onClick={toggleMenu}>
-            <span
-              class={"materials-symbols-outlined"}
+          <span class="material-symbols-outlined"
               style={{ fontSize: "1.8rem" }}
             >
               {openMenu ? "close" : "menu"}
