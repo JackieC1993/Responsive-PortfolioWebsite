@@ -41,12 +41,13 @@ export const SKILLS = [
 
 export const WORK_EXPERIENCE = [
   {
-    title: "Pursuit Fellow/FullStack Developer at Pursuit",
+    title: "Software Engineering Fellow at Pursuit",
     date: "March 2023 - present",
     responsiblities: [
-      " Project-based curriculum provides hands-on experience with JavaScript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, and pair programming",
-      " Worked on multiple projects with a team of 4 people, including a personal capstone project",
-      "12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan, and Spotify",
+      "Successfully completed three web application projects utilizing a diverse range of programming languages and technologies",
+      " Built RESTful APIs and integrated data from third party APIs to build projects",
+      "Utilized Git and Github for version control, used Netlify and Render for deployment",
+      "Technologies used:  JavaScript, HTML, CSS, Bootstrap, Express, Node.Js, MySQL, PostgreSQL, React/Redux, Data Structure, Algothrims, Sprints, Agile, Tailwind , Python",
     ],
   },
   {
